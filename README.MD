@@ -1,9 +1,9 @@
-Stylesheet of a modded version of http://tech-artists.org/forum/showthread.php?2359-Release-Qt-dark-orange-stylesheet
+Stylesheet of a modded version of http://ethanschoonover.com/solarized
 
 more info at x64dbg wiki
 https://github.com/x64dbg/x64dbg/wiki/Stylesheets
 
-![blue](https://cloud.githubusercontent.com/assets/3592375/15634563/5c82df62-25c7-11e6-8919-a8032ee51f1a.png)
+![Light](https://cloud.githubusercontent.com/assets/3592375/15805368/4cd69494-2b28-11e6-830c-08f362cd08d0.png)
 
 
 
